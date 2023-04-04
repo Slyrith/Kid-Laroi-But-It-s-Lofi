@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Kid Laroi But It's Lofi",
+    "description": "A playlist of Kid Laroi Lofi Collection",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "developer":
+    {
+        "name": "Slyrith"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+	  "license": "LICENSE",
+        "payload":
+        {
+            "background_music":
+            [
+                "music/AlwaysDo.mp3",
+                "music/Maybe.mp3",
+                "music/TellMeWhy.mp3",
+                "music/Stay.mp3",
+                "music/TooMuch.mp3",
+                "music/Wish.mp3",
+                "music/Wrong.mp3"
+            ]
+        }
+    }
+}
